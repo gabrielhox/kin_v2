@@ -3,25 +3,19 @@ title: Kin
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# Olá colaborador!
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, POPs (*Procesos Operacionais*), dúvidas, entre outros... 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+1. Esta ferramenta possui recurso de busca pressionando ´Ctrl + K´; 
+2. Dois temas, claro e escuro, para melhorar a leitura;
+3. Utilização de **Backlinks**, **Mapa Gráfico** e **Link Previews**;
+4. Há uma seção de sugestão de conteúdo, [aqui](notes/suggestion.md)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+## Setores
+> 💰 [Contabilidade](notes/accounting.md)
+> 💣 [Fiscal](notes/irs.md)
+> 🤖 [Processos](notes/processes.md)
+> 💸 [Financeiro](notes/financial.md)
+> 🛒 [E-Commerce](notes/ecommerce.md)
 
