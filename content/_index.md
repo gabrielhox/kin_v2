@@ -7,7 +7,7 @@ enableToc: false
 
 Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, POPs (*Procesos Operacionais*), dúvidas, entre outros... 
 
-1. Esta ferramenta possui recurso de busca pressionando ´Ctrl + K´; 
+1. Esta ferramenta possui recurso de busca pressionando ´´´Ctrl + K´´´; 
 2. Dois temas, claro e escuro, para melhorar a leitura;
 3. Utilização de **Backlinks**, **Mapa Gráfico** e **Link Previews**;
 4. Há uma seção de sugestão de conteúdo, [aqui](notes/suggestion.md)
