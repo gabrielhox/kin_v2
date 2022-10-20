@@ -29,13 +29,13 @@ other = "Não foi encontrado nenhum backlink aqui!"
 other = "Home"
 
 [light_mode]
-other = "Solzinho"
+other = "Modo Claro"
 
 [dark_mode]
-other = "Luinha"
+other = "Modo Escuro"
 
 [edit_source]
-other = "Edit Source"
+other = "Editar Código Fonte"
 
 [interactive_graph]
 other = "Gráfico Interativo"
@@ -44,7 +44,7 @@ other = "Gráfico Interativo"
 other = "Pesquisar"
 
 [search_icon]
-other = "Lupinha kkk"
+other = "Lupinha"
 
 [icon_search]
 other = "Ícone para abrir caixa de Pesquisa"
