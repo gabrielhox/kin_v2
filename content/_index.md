@@ -3,7 +3,7 @@ title: Kin
 enableToc: false
 ---
 
-# Olá colaborador!
+# BEM VINDO AO ![KIN](Knowledge Interchange Network)!
 
 Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, POPs (*Procesos Operacionais*), dúvidas, entre outros... 
 
@@ -24,7 +24,7 @@ Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, 
 
 - 🛒 [E-Commerce](notes/ecommerce.md)
 
-- 💾 ==Sistemas==:
+- 💾 [Sistemas](notes/sys.md)
 
     - [LINX](notes/sys_linx.md)
     - [SGE](notes/sys_sge.md)
