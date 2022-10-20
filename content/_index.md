@@ -14,8 +14,11 @@ Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, 
 
 ## Setores
 > 💰 [Contabilidade](notes/accounting.md)
-> 💣 [Fiscal](notes/irs.md)
-> 🤖 [Processos](notes/processes.md)
-> 💸 [Financeiro](notes/financial.md)
-> 🛒 [E-Commerce](notes/ecommerce.md)
 
+> 💣 [Fiscal](notes/irs.md)
+
+> 🤖 [Processos](notes/processes.md)
+
+> 💸 [Financeiro](notes/financial.md)
+
+> 🛒 [E-Commerce](notes/ecommerce.md)
