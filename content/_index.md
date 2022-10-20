@@ -3,7 +3,7 @@ title: Kin
 enableToc: false
 ---
 
-# BEM VINDO AO ![KIN](Knowledge Interchange Network)!
+# BEM VINDO AO *KIN*!
 
 Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, POPs (*Procesos Operacionais*), dúvidas, entre outros... 
 
