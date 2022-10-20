@@ -1,20 +1,20 @@
 [404_message]
-other = "Hey! You look a little lost. This page doesn't exist (or may be private)."
+other = "Hey! Tá perdido é? Eu acho que essa página não existe (ou você tá clicando onde não devia? 🤔)."
 
 [404_back]
-other = "↳ Let's get you home."
+other = "↳ Bora voltar?"
 
 [all_posts]
-other = "All {{.Title}}"
+other = "Todos {{.Title}}"
 
 [last_updated]
-other = "Last updated"
+other = "Última alteração"
 
 [notes_count]
-other = "notes with this tag"
+other = "posts com esta tag"
 
 [first_10]
-other = "showing first 10 results"
+other = "mostrando os 10 primeiros resultados"
 
 [tag]
 other = "Tag"
@@ -23,43 +23,43 @@ other = "Tag"
 other = "Backlinks"
 
 [no_backlinks]
-other = "No backlinks found"
+other = "Não foi encontrado nenhum backlink aqui!"
 
 [home]
 other = "Home"
 
 [light_mode]
-other = "Light Mode"
+other = "Modo Claro"
 
 [dark_mode]
-other = "Dark Mode"
+other = "Modo Escuro"
 
 [edit_source]
 other = "Edit Source"
 
 [interactive_graph]
-other = "Interactive Graph"
+other = "Gráfico Interativo"
 
 [search]
-other = "Search"
+other = "Pesquisar"
 
 [search_icon]
-other = "Search Icon"
+other = "Ícone de Pesquisa"
 
 [icon_search]
-other = "Icon to open search"
+other = "Ícone para abrir caixa de Pesquisa"
 
 [recent_notes]
-other = "Recent Notes"
+other = "Posts Recentes"
 
 [first_3_notes]
-other = "first 3 {{ .notes }}"
+other = "primeiros 3 {{ .notes }}"
 
 [search_for_something]
-other = "Search for something..."
+other = "Digita alguma coisa aí... 🙃"
 
 [toc]
-other = "Table of Contents"
+other = "Tabela de Conteúdos"
 
 [copyright]
-other = "Made by {{ .name }} on top of Quartz, © {{ .year }}"
+other = "Made with ❤ by {{ .name }} on top of Quartz, © {{ .year }}"
