@@ -13,12 +13,13 @@ Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, 
 4. Há uma seção de sugestão de conteúdo, [aqui](notes/suggestion.md)
 
 ## Setores
-> 💰 [Contabilidade](notes/accounting.md)
 
-> 💣 [Fiscal](notes/irs.md)
+- 💰 [Contabilidade](notes/accounting.md)
 
-> 🤖 [Processos](notes/processes.md)
+- 💣 [Fiscal](notes/irs.md)
 
-> 💸 [Financeiro](notes/financial.md)
+- 🤖 [Processos](notes/processes.md)
 
-> 🛒 [E-Commerce](notes/ecommerce.md)
+- 💸 [Financeiro](notes/financial.md)
+
+- 🛒 [E-Commerce](notes/ecommerce.md)

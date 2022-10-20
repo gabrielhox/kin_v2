@@ -1,6 +1,6 @@
-name: Gabriel Hox
+name: Gabriel de Oliveira
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://gabrielhox.github.io/kin_v2/
 enableSemanticSearch: false
