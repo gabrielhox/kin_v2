@@ -3,7 +3,7 @@ title: Kin
 enableToc: false
 ---
 
-# BEM VINDO AO *KIN* !
+# BEM VINDO AO **KIN** !
 
 > Esta é uma ferramenta interna, para **centralizar** documentos de treinamento, POPs (*Procesos Operacionais*), dúvidas, entre outros... 
 
@@ -15,11 +15,21 @@ enableToc: false
 ## Setores
 
 - 💰 [Contabilidade](notes/accounting.md)
+
 - 💣 [Fiscal](notes/irs.md)
+
 - 🤖 [Processos](notes/processes.md)
+
 - 💸 [Financeiro](notes/financial.md)
+
+- 💸 [Faturamento](notes/invoicing.md)
+
 - 🛒 [E-Commerce](notes/ecommerce.md)
+
 - 💾 [Sistemas](notes/sys.md)
+    
     - [LINX](notes/sys_linx.md)
+    
     - [SGE](notes/sys_sge.md)
+    
     - [Virtual Age](notes/sys_virtualAge.md)
